@@ -1,0 +1,29 @@
+body{
+background-color:beige;
+}
+h1{
+color:brown;
+text-shadow:3px 3px 3px brown;
+}
+h2{
+background-color:black;
+color:white;
+width:430px;
+text-align:center;
+}
+th, td{
+padding:10px;
+border:1px solid lightgray;
+}
+th{
+background-color:gray;
+color:white;
+}
+table{
+border:2px solid gray;
+border-collapse:collapse;
+}
+div{
+text-align:left;
+margin-left:33%;
+}

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>자기소개</title>
+</head>
+<body>
+<h1>자기소개</h1>
+<hr>
+<font size=+3><b>[김지호]</b></font><br>
+<font size=+2 color=brown>전화번호 ></font> 010-1234-5678<br>
+<font size=+2 color=red>이메일 ></font> nice@life.com<br>
+<font size=+2 color=#ff9933>취미 ></font> 영화보기, 여행<br>
+<font size=+2 color=#FFCC33>특기 ></font> 컴퓨터<br><br>
+<font size=+2 color=lightblue>소개 ></font><br> 저는 빅데이터전공 17학번입니다. 원래는 <font size=+1 color=grey><del>영화관</del></font>에 가거나 <font size=+1 color=grey><del>여행</del></font>다니는 것을 좋아했지만 코로나때문에 취미생활을 하지 못하고 있습니다. 대신 집에서 영화를 보고, 운동을 시작했습니다. 덕분에 코로나 전보다 <font size=+2 color=red><i>건강</i></font>해졌습니다.
+</body>
+</html>
